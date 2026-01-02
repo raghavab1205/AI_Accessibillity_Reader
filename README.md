@@ -28,7 +28,7 @@ The project is built with:
 
 ### Backend Setup
 
-1. Create a virtual environment (recommended):
+1. Create a Virtual Environment (recommended):
    ```bash
    python -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
